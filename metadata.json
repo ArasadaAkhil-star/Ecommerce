@@ -1,0 +1,7 @@
+{
+  "name": "Étoile de Soie - Luxury Fabrics",
+  "description": "A premium e-commerce experience for high-end textiles and luxury fashion fabrics, featuring cinematic UI and immersive animations.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
